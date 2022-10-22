@@ -1,0 +1,11 @@
+C:\Users\slavi\Desktop\макрос\dsaadads\dsaadads\bin\Debug\dsaadads.exe.config
+C:\Users\slavi\Desktop\макрос\dsaadads\dsaadads\bin\Debug\dsaadads.exe
+C:\Users\slavi\Desktop\макрос\dsaadads\dsaadads\bin\Debug\dsaadads.pdb
+C:\Users\slavi\Desktop\макрос\dsaadads\dsaadads\obj\Debug\dsaadads.csproj.AssemblyReference.cache
+C:\Users\slavi\Desktop\макрос\dsaadads\dsaadads\obj\Debug\dsaadads.csproj.SuggestedBindingRedirects.cache
+C:\Users\slavi\Desktop\макрос\dsaadads\dsaadads\obj\Debug\dsaadads.Form1.resources
+C:\Users\slavi\Desktop\макрос\dsaadads\dsaadads\obj\Debug\dsaadads.Properties.Resources.resources
+C:\Users\slavi\Desktop\макрос\dsaadads\dsaadads\obj\Debug\dsaadads.csproj.GenerateResource.cache
+C:\Users\slavi\Desktop\макрос\dsaadads\dsaadads\obj\Debug\dsaadads.csproj.CoreCompileInputs.cache
+C:\Users\slavi\Desktop\макрос\dsaadads\dsaadads\obj\Debug\dsaadads.exe
+C:\Users\slavi\Desktop\макрос\dsaadads\dsaadads\obj\Debug\dsaadads.pdb
